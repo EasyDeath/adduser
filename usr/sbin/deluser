@@ -2,7 +2,7 @@
 
 # deluser -- a utility to remove users from the system
 # delgroup -- a utilty to remove groups from the system
-my $version = "3.112+nmu1ubuntu5";
+my $version = "3.112";
 
 # Copyright (C) 2000 Roland Bauerschmidt <rb@debian.org>
 # Based on 'adduser' as pattern by
